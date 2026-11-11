@@ -106,3 +106,5 @@ Bienvenido a la base de conocimiento del proyecto. El formato de los nodos está
 
 - [Producto](slug-demo.md).
 - [Contrato de slug](contracts/slug.md).
+
+- [Validacion de slugs mediante el complemento KDD](./contracts/plugin-adoption/slug-adoption-quality.md)

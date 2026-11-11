@@ -67,7 +67,13 @@
     "scripts/verify_quality.py",
     ".github/workflows/deploy-pages.yml",
     ".github/workflows/trusted-pr-gate.yml",
-    ".github/workflows/validate.yml"
+    ".github/workflows/validate.yml",
+    "scripts/process_tree.py",
+    ".github/workflows/kdd-validate.yml",
+    ".kdd/validate.py",
+    ".kdd/validator.lock",
+    "knowledge/contracts/plugin-adoption/slug-adoption-quality.md",
+    "knowledge/index.md"
   ],
   "implementation": [
     "src/slug.py"
